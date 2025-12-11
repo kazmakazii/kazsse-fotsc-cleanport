@@ -1,0 +1,7 @@
+; portal2mod.esp (Fall of the Space Core, Vol. 1)
+Keyword = KAZ_Portal2HelmetKeyword|Armor|Portal2Helmet
+Keyword = KAZ_Portal2SpaceCoreKeyword|MiscItem|Portal2SpaceCore
+Keyword = LoreBox_KAZ_Portal2HelmetKeyword|Armor|Portal2Helmet
+Keyword = LoreBox_KAZ_Portal2SpaceCoreKeyword|MiscItem|Portal2SpaceCore
+Keyword = BestiarySpace Core|MiscItem|Portal2SpaceCore
+Keyword = BestiaryWheatley|MiscItem|Portal2SpaceCore

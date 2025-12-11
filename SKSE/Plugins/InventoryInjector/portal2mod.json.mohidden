@@ -1,0 +1,34 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Exit-9B/InventoryInjector/main/docs/InventoryInjector.schema.json",
+  "rules": [
+    {
+      "match": {
+        "formType": "MiscItem",
+        "keywords": [
+          "KAZ_Portal2SpaceCoreKeyword"
+        ]
+      },
+      "assign": {
+        "subTypeDisplay": "Core",
+        "iconColor": "#4d4dff",
+        "iconLabel": "portal2mod_spacecore",
+        "iconSource": "kazmakazii/portal2modicons.swf"
+      }
+    },
+    {
+      "match": {
+        "formType": "Armor",
+        "keywords": [
+          "KAZ_Portal2HelmetKeyword"
+          ]
+        }
+      },
+      "assign": {
+        "subTypeDisplay": "Helmet",
+        "iconColor": "#80005f",
+        "iconLabel": "portal2mod_helmet",
+        "iconSource": "kazmakazii/portal2modicons.swf"
+      }
+    }
+  ]
+}

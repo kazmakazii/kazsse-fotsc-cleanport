@@ -1,0 +1,6 @@
+$NAME_Wish Upon a Star	Wish Upon a Star
+$DESC_Wish Upon a Star	Recover the Space Core at the crash site
+$NAME_Spheriphem Sorcerer	Spheriphem Sorcerer
+$DESC_Spheriphem Sorcerer	Obtain a Dovahcore Helmet from the Atronach Forge
+$NAME_From Whence They Came	Siphon
+$DESC_From Whence They Came	Send the Space Core back into orbit

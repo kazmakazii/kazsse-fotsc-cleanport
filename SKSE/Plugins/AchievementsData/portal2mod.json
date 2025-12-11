@@ -1,0 +1,46 @@
+{
+    "groupName": "Fall of the Space Core, Vol. 1",
+    "plugin": "portal2mod.esp",
+    "achievements": [
+        {
+            "achievementName": "$NAME_Wish Upon a Star",
+            "description": "$DESC_Wish Upon a Star",
+			"hideDescription": true,
+            "icon": "kazFOTSC1.dds",
+            "conditions": [
+                {
+                    "type": "ItemInInventory",
+                    "formID": "000800",
+                    "quantity": "1"
+                }
+            ]
+        },
+        {
+            "achievementName": "$NAME_Spheriphem Sorcerer",
+            "description": "$DESC_Spheriphem Sorcerer",
+			"hideDescription": true,
+            "icon": "kazFOTSC2.dds",
+            "conditions": [
+                {
+                    "type": "ItemInInventory",
+                    "formID": "000808",
+                    "quantity": "1"
+                }
+            ]
+        },
+        {
+            "achievementName": "$NAME_From Whence They Came",
+            "description": "$DESC_From Whence They Came",
+			"hideDescription": true,
+            "icon": "kazFOTSC3.dds",
+            "conditions": [
+                {
+                    "type": "QuestStageDone",
+                    "formID": "000833",
+                    "stage": 100,
+                    "OP": "GT"
+                }
+            ]
+        }
+    ]
+}

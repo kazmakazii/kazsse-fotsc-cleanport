@@ -1,0 +1,22 @@
+[
+  {
+    "models": [  
+      
+      "mods\\modspacesphere.nif",
+      "mods\\modspacesphereinv.nif" ],
+    "lights": [
+      {
+        "nodes": [[135]],
+        "data": {
+          "light": "Portal2SpaceCoreSpot",
+          "radius": 3.0,
+          "fade": 5,
+          "shadowDepthBias": 1.0
+          "offset": [0, 0, 0],
+          "rotation": [90, 0, 0],
+          "color": [255, 95, 0],
+        }
+      }
+    ]
+  }
+]

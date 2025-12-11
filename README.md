@@ -1,5 +1,5 @@
-# kazsse-fotsc-cleanport
-Space Spheres, also known as the Spheriphem, are natives of space, and will cajole adventurers to help them return to that comforting void. 
+# Fall of the Space Core, Vol 1. - Addendum 
+Fully hands-free dynamic portal2mod.esp Skyrim Special Edition port that fixes various flaws and dynamically plugs into installed SKSE-based frameworks.
 
 todo:
 1. base (DONE!)
@@ -16,3 +16,5 @@ todo:
 12. carry over wheatley nodes and animations to constellations by parapets skill menu meshes (SOMEONE HELP! NIFSKOPE IS EVIL AND HATES ME)
 13. edited spacedroner lotdv6 patch for formatting concerns (DONE!)
 14. edited spacedroner lotdv6 patch with more unique charging station doohickey (working...)
+15. achievements (working...) (need to fix tracker and create knotwork icons)
+16. 
